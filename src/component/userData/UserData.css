@@ -1,0 +1,28 @@
+.userDataWrapper {
+  width: 50rem;
+  display: flex;
+  padding: 2rem;
+  overflow: scroll;
+  border: 1px solid black;
+}
+
+.userForm {
+  font-size: 1.6rem;
+  margin-right: 2rem;
+}
+
+.userForm > label {
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+.userForm > input {
+  display: block;
+  width: 100%;
+  font-size: inherit;
+  margin-bottom: 1.5rem;
+  padding: 0.4rem 0 0.4rem 1rem;
+}
+
+.userFrom > button {
+}

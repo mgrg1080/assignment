@@ -1,0 +1,23 @@
+.tableWrapper {
+  max-height: 30rem;
+
+}
+.table {
+  font-size: 1.6rem;
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 1.3rem;
+  border: 1px solid rgb(247, 216, 216);
+  font-size: 1.6rem;
+}
+
+th {
+  padding: 1.5rem;
+  font-weight: 600;
+  background-color: tomato;
+  color: #fff;
+  cursor: pointer;
+}
